@@ -1,0 +1,163 @@
+employee_id,finding,severity,risk_score
+EMP0001,Offboarding Gap,HIGH,82
+EMP0002,Offboarding Gap,HIGH,82
+EMP0003,Offboarding Gap,HIGH,82
+EMP0004,Offboarding Gap,HIGH,82
+EMP0005,Offboarding Gap,HIGH,82
+EMP0006,Offboarding Gap,HIGH,82
+EMP0007,Offboarding Gap,HIGH,82
+EMP0008,Offboarding Gap,HIGH,82
+EMP0009,Offboarding Gap,HIGH,82
+EMP0010,Offboarding Gap,HIGH,82
+EMP0011,Offboarding Gap,HIGH,82
+EMP0012,Offboarding Gap,HIGH,82
+EMP0013,Offboarding Gap,HIGH,82
+EMP0014,Offboarding Gap,HIGH,82
+EMP0015,Offboarding Gap,HIGH,82
+EMP0016,Offboarding Gap,HIGH,82
+EMP0017,Offboarding Gap,HIGH,82
+EMP0018,Offboarding Gap,HIGH,82
+EMP0019,Offboarding Gap,HIGH,82
+EMP0020,Offboarding Gap,HIGH,82
+EMP0021,Offboarding Gap,HIGH,82
+EMP0022,Offboarding Gap,HIGH,82
+EMP0023,Offboarding Gap,HIGH,82
+EMP0024,Offboarding Gap,HIGH,82
+EMP0025,Offboarding Gap,HIGH,82
+EMP0026,Offboarding Gap,HIGH,82
+EMP0027,Offboarding Gap,HIGH,82
+EMP0028,Offboarding Gap,HIGH,82
+EMP0029,Offboarding Gap,HIGH,82
+EMP0030,Offboarding Gap,HIGH,82
+EMP0031,Offboarding Gap,HIGH,82
+EMP0032,Offboarding Gap,HIGH,82
+EMP0033,Offboarding Gap,HIGH,82
+EMP0034,Offboarding Gap,HIGH,82
+EMP0035,Offboarding Gap,HIGH,82
+EMP0036,Offboarding Gap,HIGH,82
+EMP0037,Offboarding Gap,HIGH,82
+EMP0038,Offboarding Gap,HIGH,82
+EMP0039,Offboarding Gap,HIGH,82
+EMP0040,Offboarding Gap,HIGH,82
+EMP0041,Offboarding Gap,HIGH,82
+EMP0042,Offboarding Gap,HIGH,82
+EMP0043,Offboarding Gap,HIGH,82
+EMP0044,Offboarding Gap,HIGH,82
+EMP0045,Offboarding Gap,HIGH,82
+EMP0046,Offboarding Gap,HIGH,82
+EMP0047,Offboarding Gap,HIGH,82
+EMP0048,Offboarding Gap,HIGH,82
+EMP0049,Offboarding Gap,HIGH,82
+EMP0050,Offboarding Gap,HIGH,82
+EMP0076,Cross Platform Admin,CRITICAL,95
+EMP0077,Cross Platform Admin,CRITICAL,95
+EMP0078,Cross Platform Admin,CRITICAL,95
+EMP0079,Cross Platform Admin,CRITICAL,95
+EMP0080,Cross Platform Admin,CRITICAL,95
+EMP0081,Cross Platform Admin,CRITICAL,95
+EMP0082,Cross Platform Admin,CRITICAL,95
+EMP0083,Cross Platform Admin,CRITICAL,95
+EMP0084,Cross Platform Admin,CRITICAL,95
+EMP0085,Cross Platform Admin,CRITICAL,95
+EMP0086,Cross Platform Admin,CRITICAL,95
+EMP0087,Cross Platform Admin,CRITICAL,95
+EMP0088,Cross Platform Admin,CRITICAL,95
+EMP0089,Cross Platform Admin,CRITICAL,95
+EMP0090,Cross Platform Admin,CRITICAL,95
+EMP0091,Cross Platform Admin,CRITICAL,95
+EMP0092,Cross Platform Admin,CRITICAL,95
+EMP0093,Cross Platform Admin,CRITICAL,95
+EMP0094,Cross Platform Admin,CRITICAL,95
+EMP0095,Cross Platform Admin,CRITICAL,95
+EMP0096,Cross Platform Admin,CRITICAL,95
+EMP0097,Cross Platform Admin,CRITICAL,95
+EMP0098,Cross Platform Admin,CRITICAL,95
+EMP0099,Cross Platform Admin,CRITICAL,95
+EMP0100,Cross Platform Admin,CRITICAL,95
+EMP0101,Cross Platform Admin,CRITICAL,95
+EMP0102,Cross Platform Admin,CRITICAL,95
+EMP0103,Cross Platform Admin,CRITICAL,95
+EMP0104,Cross Platform Admin,CRITICAL,95
+EMP0105,Cross Platform Admin,CRITICAL,95
+EMP0106,Cross Platform Admin,CRITICAL,95
+EMP0107,Cross Platform Admin,CRITICAL,95
+EMP0108,Cross Platform Admin,CRITICAL,95
+EMP0109,Cross Platform Admin,CRITICAL,95
+EMP0110,Cross Platform Admin,CRITICAL,95
+EMP0111,Cross Platform Admin,CRITICAL,95
+EMP0112,Cross Platform Admin,CRITICAL,95
+EMP0113,Cross Platform Admin,CRITICAL,95
+EMP0114,Cross Platform Admin,CRITICAL,95
+EMP0115,Cross Platform Admin,CRITICAL,95
+EMP0116,Privilege Spike,HIGH,78
+EMP0117,Privilege Spike,HIGH,78
+EMP0118,Privilege Spike,HIGH,78
+EMP0119,Privilege Spike,HIGH,78
+EMP0120,Privilege Spike,HIGH,78
+EMP0121,Privilege Spike,HIGH,78
+EMP0122,Privilege Spike,HIGH,78
+EMP0123,Privilege Spike,HIGH,78
+EMP0124,Privilege Spike,HIGH,78
+EMP0125,Privilege Spike,HIGH,78
+EMP0126,Privilege Spike,HIGH,78
+EMP0127,Privilege Spike,HIGH,78
+EMP0128,Privilege Spike,HIGH,78
+EMP0129,Privilege Spike,HIGH,78
+EMP0130,Privilege Spike,HIGH,78
+EMP0131,Privilege Spike,HIGH,78
+EMP0132,Privilege Spike,HIGH,78
+EMP0133,Privilege Spike,HIGH,78
+EMP0134,Privilege Spike,HIGH,78
+EMP0135,Privilege Spike,HIGH,78
+EMP0136,Privilege Spike,HIGH,78
+EMP0137,Privilege Spike,HIGH,78
+EMP0138,Privilege Spike,HIGH,78
+EMP0139,Privilege Spike,HIGH,78
+EMP0140,Privilege Spike,HIGH,78
+EMP0141,Token Abuse,HIGH,76
+EMP0142,Token Abuse,HIGH,76
+EMP0143,Token Abuse,HIGH,76
+EMP0144,Token Abuse,HIGH,76
+EMP0145,Token Abuse,HIGH,76
+EMP0146,Token Abuse,HIGH,76
+EMP0147,Token Abuse,HIGH,76
+EMP0148,Token Abuse,HIGH,76
+EMP0149,Token Abuse,HIGH,76
+EMP0150,Token Abuse,HIGH,76
+EMP0151,Token Abuse,HIGH,76
+EMP0152,Token Abuse,HIGH,76
+EMP0153,Token Abuse,HIGH,76
+EMP0154,Token Abuse,HIGH,76
+EMP0155,Token Abuse,HIGH,76
+EMP0156,Token Abuse,HIGH,76
+EMP0157,Token Abuse,HIGH,76
+EMP0228,Dormant Admin,HIGH,74
+EMP0229,Dormant Admin,HIGH,74
+EMP0230,Dormant Admin,HIGH,74
+EMP0231,Dormant Admin,HIGH,74
+EMP0232,Dormant Admin,HIGH,74
+EMP0233,Dormant Admin,HIGH,74
+EMP0234,Dormant Admin,HIGH,74
+EMP0235,Dormant Admin,HIGH,74
+EMP0236,Dormant Admin,HIGH,74
+EMP0237,Dormant Admin,HIGH,74
+EMP0238,Dormant Admin,HIGH,74
+EMP0239,Dormant Admin,HIGH,74
+EMP0240,Dormant Admin,HIGH,74
+EMP0241,Dormant Admin,HIGH,74
+EMP0242,Dormant Admin,HIGH,74
+EMP0243,Dormant Admin,HIGH,74
+EMP0244,Dormant Admin,HIGH,74
+EMP0245,Dormant Admin,HIGH,74
+EMP0246,Dormant Admin,HIGH,74
+EMP0247,Dormant Admin,HIGH,74
+EMP0248,Dormant Admin,HIGH,74
+EMP0249,Dormant Admin,HIGH,74
+EMP0250,Dormant Admin,HIGH,74
+EMP0251,Dormant Admin,HIGH,74
+EMP0252,Dormant Admin,HIGH,74
+EMP0253,Dormant Admin,HIGH,74
+EMP0254,Dormant Admin,HIGH,74
+EMP0255,Dormant Admin,HIGH,74
+EMP0256,Dormant Admin,HIGH,74
+EMP0257,Dormant Admin,HIGH,74

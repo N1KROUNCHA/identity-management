@@ -1,0 +1,121 @@
+employee_id,finding,severity,risk_score
+EMP0235,Orphaned cross-platform account,HIGH,82
+EMP0265,Orphaned cross-platform account,HIGH,82
+EMP0079,Orphaned cross-platform account,HIGH,82
+EMP0282,Orphaned cross-platform account,HIGH,82
+EMP0169,Orphaned cross-platform account,HIGH,82
+EMP0170,Orphaned cross-platform account,HIGH,82
+EMP0206,Orphaned cross-platform account,HIGH,82
+EMP0053,Orphaned cross-platform account,HIGH,82
+EMP0311,Orphaned cross-platform account,HIGH,82
+EMP0027,Orphaned cross-platform account,HIGH,82
+EMP0038,Orphaned cross-platform account,HIGH,82
+EMP0336,Orphaned cross-platform account,HIGH,82
+EMP0033,Orphaned cross-platform account,HIGH,82
+EMP0268,Orphaned cross-platform account,HIGH,82
+EMP0317,Orphaned cross-platform account,HIGH,82
+EMP0163,Orphaned cross-platform account,HIGH,82
+EMP0254,Orphaned cross-platform account,HIGH,82
+EMP0147,Orphaned cross-platform account,HIGH,82
+EMP0219,Orphaned cross-platform account,HIGH,82
+EMP0096,Orphaned cross-platform account,HIGH,82
+EMP0295,Orphaned cross-platform account,HIGH,82
+EMP0342,Orphaned cross-platform account,HIGH,82
+EMP0131,Orphaned cross-platform account,HIGH,82
+EMP0039,Orphaned cross-platform account,HIGH,82
+EMP0070,Orphaned cross-platform account,HIGH,82
+EMP0222,Orphaned cross-platform account,HIGH,82
+EMP0092,Orphaned cross-platform account,HIGH,82
+EMP0087,Orphaned cross-platform account,HIGH,82
+EMP0130,Orphaned cross-platform account,HIGH,82
+EMP0199,Orphaned cross-platform account,HIGH,82
+EMP0051,Orphaned cross-platform account,HIGH,82
+EMP0112,Orphaned cross-platform account,HIGH,82
+EMP0127,Orphaned cross-platform account,HIGH,82
+EMP0175,Orphaned cross-platform account,HIGH,82
+EMP0090,Orphaned cross-platform account,HIGH,82
+EMP0050,Orphaned cross-platform account,HIGH,82
+EMP0213,Orphaned cross-platform account,HIGH,82
+EMP0141,Orphaned cross-platform account,HIGH,82
+EMP0245,Orphaned cross-platform account,HIGH,82
+EMP0188,Orphaned cross-platform account,HIGH,82
+EMP0086,Orphaned cross-platform account,HIGH,82
+EMP0114,Orphaned cross-platform account,HIGH,82
+EMP0047,Orphaned cross-platform account,HIGH,82
+EMP0202,Orphaned cross-platform account,HIGH,82
+EMP0180,Orphaned cross-platform account,HIGH,82
+EMP0054,Cross-platform admin,CRITICAL,94
+EMP0187,Cross-platform admin,CRITICAL,94
+EMP0081,Cross-platform admin,CRITICAL,94
+EMP0014,Cross-platform admin,CRITICAL,94
+EMP0126,Cross-platform admin,CRITICAL,94
+EMP0148,Cross-platform admin,CRITICAL,94
+EMP0189,Cross-platform admin,CRITICAL,94
+EMP0190,Cross-platform admin,CRITICAL,94
+EMP0149,Cross-platform admin,CRITICAL,94
+EMP0024,Cross-platform admin,CRITICAL,94
+EMP0244,Cross-platform admin,CRITICAL,94
+EMP0029,Cross-platform admin,CRITICAL,94
+EMP0203,Cross-platform admin,CRITICAL,94
+EMP0343,Cross-platform admin,CRITICAL,94
+EMP0183,Cross-platform admin,CRITICAL,94
+EMP0068,Cross-platform admin,CRITICAL,94
+EMP0160,Cross-platform admin,CRITICAL,94
+EMP0182,Cross-platform admin,CRITICAL,94
+EMP0258,Cross-platform admin,CRITICAL,94
+EMP0305,Cross-platform admin,CRITICAL,94
+EMP0125,Cross-platform admin,CRITICAL,94
+EMP0031,Cross-platform admin,CRITICAL,94
+EMP0270,Cross-platform admin,CRITICAL,94
+EMP0249,Cross-platform admin,CRITICAL,94
+EMP0122,Cross-platform admin,CRITICAL,94
+EMP0107,Cross-platform admin,CRITICAL,94
+EMP0284,Cross-platform admin,CRITICAL,94
+EMP0157,Cross-platform admin,CRITICAL,94
+EMP0120,Cross-platform admin,CRITICAL,94
+EMP0093,Cross-platform admin,CRITICAL,94
+EMP0186,Cross-platform admin,CRITICAL,94
+EMP0138,Cross-platform admin,CRITICAL,94
+EMP0142,Cross-platform admin,CRITICAL,94
+EMP0006,Cross-platform admin,CRITICAL,94
+EMP0153,Cross-platform admin,CRITICAL,94
+EMP0201,Privilege escalation,HIGH,86
+EMP0280,Privilege escalation,HIGH,86
+EMP0143,Privilege escalation,HIGH,86
+EMP0337,Privilege escalation,HIGH,86
+EMP0106,Privilege escalation,HIGH,86
+EMP0250,Privilege escalation,HIGH,86
+EMP0073,Privilege escalation,HIGH,86
+EMP0013,Privilege escalation,HIGH,86
+EMP0113,Privilege escalation,HIGH,86
+EMP0290,Privilege escalation,HIGH,86
+EMP0247,Privilege escalation,HIGH,86
+EMP0253,Privilege escalation,HIGH,86
+EMP0161,Privilege escalation,HIGH,86
+EMP0233,Privilege escalation,HIGH,86
+EMP0332,Privilege escalation,HIGH,86
+EMP0055,Privilege escalation,HIGH,86
+EMP0298,Privilege escalation,HIGH,86
+EMP0066,Privilege escalation,HIGH,86
+EMP0297,Privilege escalation,HIGH,86
+EMP0228,Privilege escalation,HIGH,86
+EMP0318,Privilege escalation,HIGH,86
+EMP0341,Privilege escalation,HIGH,86
+EMP0313,Privilege escalation,HIGH,86
+EMP0310,Privilege escalation,HIGH,86
+EMP0329,Old API token with anomalous use,MEDIUM,68
+EMP0333,Old API token with anomalous use,MEDIUM,68
+EMP0248,Old API token with anomalous use,MEDIUM,68
+EMP0262,Old API token with anomalous use,MEDIUM,68
+EMP0323,Old API token with anomalous use,MEDIUM,68
+EMP0058,Old API token with anomalous use,MEDIUM,68
+EMP0179,Old API token with anomalous use,MEDIUM,68
+EMP0349,Old API token with anomalous use,MEDIUM,68
+EMP0168,Old API token with anomalous use,MEDIUM,68
+EMP0184,Old API token with anomalous use,MEDIUM,68
+EMP0021,Old API token with anomalous use,MEDIUM,68
+EMP0223,Old API token with anomalous use,MEDIUM,68
+EMP0118,Old API token with anomalous use,MEDIUM,68
+EMP0074,Old API token with anomalous use,MEDIUM,68
+EMP0002,Old API token with anomalous use,MEDIUM,68
+EMP0104,Old API token with anomalous use,MEDIUM,68
